@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Golam Dostogir</h1>
 <h3 align="center">Full-stack web developer</h3>
 <hr>
-<p>6+ years of experince in Web development (Laravel and Django framework). </p>
+<p>5+ years of experince in Web development (Laravel and Django framework). </p>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
