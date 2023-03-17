@@ -1,6 +1,63 @@
-<h1 align="center">Hi 👋, I'm Mohammad Golam Dostogir</h1>
-<h3 align="center">Full-Stack web developer</h3>
+<style>
+  #sent1,#sent2,#sent3
+{
+   overflow: hidden;
+   white-space: nowrap;
+   opacity: 0;
+   font-size: 47px;
+   font-weight: 900;
+   background: -webkit-linear-gradient(right,#2fc4ff, #39c747);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 
+#sent1
+{
+   width: 8em;
+   animation: sentence1 4s steps(40,end) 1s 1 normal forwards;
+}
+
+#sent2
+{
+   width: 15em;
+   animation: sentence2 6s steps(60,end) 4s 1 normal forwards;
+}
+
+#sent3
+{
+   width: 7em;
+   animation: sentence3 5s steps(50,end) 9s 1 normal forwards;
+}
+
+
+@keyframes sentence1
+{
+   0% {width: 0; opacity: 0;}
+   1% {opacity: 1;}
+   100% {width: 100%; opacity: 1;}
+}
+
+@keyframes sentence2
+{
+   0% {width: 0; opacity: 0;}
+   1% {opacity: 1;}
+   100% {width: 100%; opacity: 1;}
+}
+
+@keyframes sentence3 
+{
+   0% {width: 0; opacity: 0;}
+   1% {opacity: 1;}
+   100% {width: 100%; opacity: 1;}
+}
+
+  </style>
+<div>
+  <p id="sent1">Hi 👋, I'm Mohammad Golam Dostogir</p>
+  <p id="sent2">Full-Stack web developer</p>
+  <p id="sent3">I Love Django & Reactjs</p>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gdapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gdapu" height="30" width="40" /></a>
