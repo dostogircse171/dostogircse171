@@ -12,7 +12,6 @@
 
 
 ### Glad to see you here!  
-I'm a Django wizard with over 5 years of spellbinding experience, conjuring up top-notch web applications with a dash of Python magic. I've dabbled in the realms of RESTful APIs, PostgreSQL, and MySQL while mastering frontend enchantments like HTML, CSS, and JavaScript. My cauldron overflows with Django packages and third-party libraries, such as Django REST Framework, Celery, Django Channels, and the mystic GraphQL.
 
 I ❤️ Django  
 
