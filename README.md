@@ -35,3 +35,6 @@ I ❤️ Django
 </div>  
 
 <br/>  
+<a href="https://www.credly.com/badges/45a7faaf-a376-43ab-8004-3e5b19385f37" target="_blank">
+<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" height="200"/>
+</a>
