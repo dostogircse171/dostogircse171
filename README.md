@@ -13,7 +13,8 @@
 
 ### Let's Connect  
 
-I ❤️ Django  
+Python | Django | Django REST framework | Wagtail | ReactJs | Data Analysis | GraphQL | PostgreSQL | AWS
+<br><br>Django is ❤️
 
 
 <br/>  
