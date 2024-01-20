@@ -14,6 +14,10 @@
 ### Let's Connect  
 
 Python | Django | Django REST framework | Wagtail | ReactJs | Data Analysis | GraphQL | PostgreSQL | AWS
+<br><br>
+Degrees:<br>
+<b>MSc in Data Science, University of Surrey, UK - 2023</b><br>
+<b>BSc in Computer Science, AUST, Bangladesh - 2015</b>
 <br><br>Django is ❤️
 
 
