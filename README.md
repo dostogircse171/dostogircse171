@@ -1,12 +1,16 @@
 ## Welcome to my Github Profile! 💻  
-  
 
-<a href="https://linkedin.com/in/gdapu" target="_blank">
+<a href="https://linkedin.com/in/gdapu" target="_blank" style="text-decoration: none;">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/3443037/dostogircse171?tab=profile" target="_blank">
+<a href="https://stackoverflow.com/users/3443037/dostogircse171?tab=profile" target="_blank" style="text-decoration: none;">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://pypi.org/user/dostogircse171/" target="_blank" style="text-decoration: none;">
+<img src=https://img.shields.io/badge/PyPI_Projects-%2373B0C9.svg?&style=for-the-badge&logo=pypi&logoColor=white alt=PyPI style="margin-bottom: 5px;" />
+</a>
+
+
   
 
 
