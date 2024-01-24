@@ -57,5 +57,6 @@ Django is ❤️
         </td>
     </tr>
 </table>
+<p>If you have any questions or wish to get in touch, please feel free to connect with me on LinkedIn or email me at <a href="mailto:contact@dostogir.dev">contact@dostogir.dev</a>.</p>
 
 
