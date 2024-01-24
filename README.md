@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=dostogircse171&style=for-the-badge" alt="golam-dostogir" />
 
 ### About me  
-<p>I am an experienced <b>Software Engineer / Web Developer</b>. I have been working with many top-class companies and brands globally especially from the USA, UK, Switzerland, etc. to help them build and optimize web applications as well as enhance their scalability.<br><br>Currently working as a skilled <b>Software Engineer</b> in the UK under the shortage occupations category and also contributing to open source projects when possible.</p>
+<p>I have been collaborating with numerous prestigious companies and brands globally, especially from the USA, UK, and Switzerland, to help them build and optimize web applications and enhance their scalability.<br><br>I am currently working as a skilled <b>Software Engineer</b> in the UK under the shortage occupation category, and also contributing to open source projects when possible.</p>
 <p><b>Python | Django | Django REST framework | Wagtail | ReactJs | Data Analysis | GraphQL | PostgreSQL | AWS</b></p>
 Django is ❤️
 
