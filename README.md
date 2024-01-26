@@ -4,7 +4,7 @@
 <p>I am an experienced Software Engineer / Web Developer. I have worked with numerous prestigious companies and brands globally, especially from the USA, UK, and Switzerland, to help them build and optimize web applications and enhance their scalability.<br><br>I am currently working as a skilled <b>Software Engineer</b> in the UK under the shortage occupation category, and also contributing to open source projects when possible.</p>
 
 <b>Fun Facts:</b>
--  I have earned a spot as one of the top <a href="https://stackoverflow.com/review/first-questions/stats">'First Questions'</a> reviewers on StackOverflow. (4K+)
+-  One of the top <a href="https://stackoverflow.com/review/first-questions/stats">'First Questions'</a> reviewers on StackOverflow. (4K+)
 -  Used to play CoD4, CS:GO, Battlefield3 as a name "Parker". 🎮
 -  My undergraduate CGPA was 2.67 out of 4.00. Not Bad!!! 😅
 -  Drove through 4 countries in just 4 days, traversing the scenic routes of England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 , France 🇫🇷, Belgium 🇧🇪 , and the Netherlands 🇳🇱.
