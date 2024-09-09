@@ -59,7 +59,7 @@ Django is ❤️
         </td>
         <td>
             <a href="https://www.credly.com/badges/878f81e3-4e6c-4c28-bdfb-106ef7350b7d" target="_blank">
-                <img src="https://images.credly.com/size/680x680/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png" alt="WES Certified" height="140"/>
+                <img src="https://images.credly.com/size/680x680/images/28243fa9-71f4-4b55-9fb3-eab99e1dff95/image.png" alt="WES Certified" height="140"/>
             </a>
         </td>
     </tr>
